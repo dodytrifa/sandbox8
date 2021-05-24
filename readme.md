@@ -1,0 +1,1 @@
+- untuk run dan transpile ke file js ketik tsc <nama file>
